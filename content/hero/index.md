@@ -1,8 +1,8 @@
 ---
-title: 'Hey. I wanna suck on yo titties Kylie.'
+title: 'Hey.testestestest.'
 name: 'My name is Daniel Huynh'
 subtitle: 'yerrrrrrrrrr'
-buttonText: 'Get In Touch With This Dikkkkkkk'
+buttonText: 'heyoootest'
 ---
 
 cant wait to see u. bye. i love u.
