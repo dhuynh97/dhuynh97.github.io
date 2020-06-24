@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Daniel Huynh'
-subtitle: 'I build things for the web.'
-buttonText: 'Get In Touch With These'
+title: 'Hey. I wanna suck on yo titties Kylie.'
+name: 'My name is Daniel Huynh'
+subtitle: 'yerrrrrrrrrr'
+buttonText: 'Get In Touch With This Dikkkkkkk'
 ---
 
-I'm a software engineer based San Jose, CA.
+cant wait to see u. bye. i love u.
