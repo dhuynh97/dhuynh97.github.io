@@ -3,7 +3,7 @@ import theme from './theme';
 const { colors, fontSizes, fonts } = theme;
 
 const prismColors = {
-  bg: `#112340`,
+  bg: `#ffffff`,
   lineHighlight: `#1d2d50`,
   blue: `#5ccfe6`,
   purple: `#c3a6ff`,
