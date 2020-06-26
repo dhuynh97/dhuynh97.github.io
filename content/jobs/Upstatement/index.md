@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
+title: 'Business Consulting Summer Analyst'
+company: 'Bainbridge Consulting'
 location: 'Boston, MA'
 range: 'May 2018 - Present'
 url: 'https://www.upstatement.com/'
