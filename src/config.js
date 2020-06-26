@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Daniel Huynh',
   siteDescription:
     'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Daniel Huynh, Daniel, Huynh, dhuynh97, software engineer, front-end engineer, web developer, javascript, ucsd, san jose, bay area',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Daniel Huynh',
+  location: 'San Jose, CA',
+  email: 'danielhuynh97@gmail.com',
+  github: 'https://github.com/dhuynh7',
+  twitterHandle: '@danierhuynh',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/dhuynh97',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/danielhuynh97',
     },
     {
       name: 'Codepen',
@@ -28,11 +28,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/danisdabombdotcom',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/danierhuynh',
     },
   ],
 
@@ -60,7 +60,7 @@ module.exports = {
   colors: {
     green: '#64ffda',
     navy: '#0a192f',
-    darkNavy: '#020c1b',
+    darkNavy: '#ffffff',
   },
 
   srConfig: (delay = 200) => ({
