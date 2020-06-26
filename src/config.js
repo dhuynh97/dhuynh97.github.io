@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Daniel Huynh',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Daniel Huynh is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Daniel Huynh, Daniel, Huynh, dhuynh97, software engineer, front-end engineer, web developer, javascript, ucsd, san jose, bay area',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://danielhuynh.co',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
