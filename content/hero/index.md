@@ -6,4 +6,4 @@ buttonText: 'Get In Touch'
 
 ---
 
-I'm an undergrad at [UC San Diego](https://www.https://www.ucsd.edu/) studying Business and Computer Science and I'm passionate about creating beautiful things for others to enjoy.
+I'm an undergrad at [UC San Diego](https://www.ucsd.edu/) studying Business and Computer Science and I'm passionate about creating beautiful things for others to enjoy.
